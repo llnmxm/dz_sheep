@@ -3,7 +3,7 @@
 html {}
 @font-face { font-family: SFProText; src: url('SF-Pro-Text-Regular.otf'); }
 @font-face { font-family: Shadower; font-weight: bold; src: url('Shadower.woff');}
-@font-face { font-family: SFCompactText; font-weight: regular; src: url('SFCompactText-Regular.otf'); }
+@font-face { font-family: SFCompactText1; font-weight: regular; src: url('SFCompactText-Regular.otf'); }
 @font-face { font-family: SFCompactText; font-weight: semibold; src: url('SFCompactText-Semibold.otf');}
 
 .row {
@@ -49,7 +49,7 @@ h3 {
     line-height: 26px;
   margin: 0 0 .1em 0;
 }
-​
+
 p {
   
   margin: 0 0 .88em 0;
@@ -65,7 +65,7 @@ h4 {
 }
 
 p2 {
-  font-family: SFCompactText,
+  font-family: SFCompactText1,
      sans-serif;
     font-weight: regular;
   font-size: 12px;
@@ -74,7 +74,7 @@ p2 {
 }
 
 p3 {
-  font-family: SFCompactText,
+  font-family: SFCompactText1,
      sans-serif;
   font-weight: regular;
   font-size: 10px;
